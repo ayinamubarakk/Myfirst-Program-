@@ -94,3 +94,5 @@ print()
 val1 = True
 val2 = False
 print("and operator", val1 and val2)
+print("or operator", val1 and val2)
+
